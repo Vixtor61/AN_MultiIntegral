@@ -1,3 +1,4 @@
+#author Vixtor61
 import math
 
 def f(*args):
